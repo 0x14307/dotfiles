@@ -4,6 +4,6 @@ This is a really self explanatory repository, mainly built for myself to store m
 
 
 These files are stored with `stow`, which **should** be available on most distro's package managers.
-In your .xinitrc, you should have something such as `stow --dir=dotfiles/ --traget=.config/ .` if you have this repo in your home directory.
+In your .xinitrc, you should have something such as `stow --dir=dotfiles/ --target=.config/ .` if you have this repo in your home directory.
 
 ![Background](thumb.png "")
